@@ -1,5 +1,3 @@
-<img src="https://demo.nftverse.org/vectors/logo.svg" width="100" />
-
 # NFTverse
 
 For NFT owners, NFTverse offers either: (1) a way to draw capital against their non-fungible collateral, or (2) a short-dated put on the price of their NFT (with the premium paid being the fixed premium to top bidder).
